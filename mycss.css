@@ -1,41 +1,39 @@
-body{
+body {
    background-color: initial;
 }
 
-#MonikaS{
-   background-color:initial;
-   font-family:initial;
-   color:initial;
-   
-}
-
-#KaterinaP{
+#MonikaS {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
+
 }
 
-#BarboraP{
+#KaterinaP {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
+
 }
 
-#AndreaS{
+#BarboraP {
    background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
+
 }
 
-#SarkaL{
-   background-color: green;
+#AndreaS {
+   background-color: initial;
    font-family: initial;
-   color:initial;
-   
+   color: initial;
 
 }
 
+#SarkaL {
+   background-color: chocolate;
+   font-family: Arial, Helvetica, sans-serif;
+   color: burlywood;
 
+
+}
